@@ -1,0 +1,25 @@
+{
+  "name": "LG1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.1",
+    "node": "^13.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvernon27/LG1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvernon27/LG1/issues"
+  },
+  "homepage": "https://github.com/mvernon27/LG1#readme"
+}
