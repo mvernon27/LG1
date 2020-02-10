@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "http-server -a 0.0.0.0 -p 8000"
+    "start": "http-server -a 0.0.0.0"
   },
   "repository": {
     "type": "git",
